@@ -1,0 +1,5 @@
+.git/
+node_modules/
+public/js/
+public/css/
+yarn-error.log
